@@ -55,14 +55,14 @@ Model, borcunu ödeyecek müşteriler ile batacak olanları **%78 başarı oran�
 
 | ROC Eğrisi | Olasılık Dağılımı |
 |------------|-------------------|
-| ![ROC Curve](images/roc.png) | ![Probability Distribution](images/probability.png) |
+| ![ROC Curve](images/roc.PNG) | ![Probability Distribution](images/probability.PNG) |
 
 ### 2. Finansal Etki Analizi (Confusion Matrix)
 Modelin ticari etkisi simüle edildiğinde (Threshold: 0.50):
 * **Risk Yönetimi:** 3.400+ potansiyel batık kredi (True Positive) tespit edilerek bankanın zararı önlenmiştir.
 * **Doğruluk:** Güvenli müşterileri tespit etme başarısı yüksektir.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.PNG)
 
 ---
 
