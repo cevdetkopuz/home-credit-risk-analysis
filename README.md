@@ -99,6 +99,29 @@ Elde edilen sonuçlara göre yönetim için aksiyon planı:
 
 ---
 
+## 📊 BI & Reporting Dashboard (Looker Studio)
+
+Model çıktılarını, müşteri segmentlerini ve risk faktörlerini analiz etmek için **Google Looker Studio** kullanılarak kapsamlı bir raporlama seti hazırlanmıştır.
+
+### 📌 Genel Bakış ve KPI'lar (Summary)
+Aşağıdaki panel, projenin özet metriklerini ve genel risk dağılımını göstermektedir.
+
+![Main Dashboard](images/dashboard_4.png)
+
+### 🔎 Detaylı Analiz Sayfaları
+
+Dashboard, farklı iş birimleri için özelleştirilmiş analiz sayfaları içerir:
+
+| Müşteri Demografisi | Risk Segmentasyonu |
+|:-------------------:|:------------------:|
+| ![Demographics](images/dashboard_1.png) | ![Risk Segments](images/dashboard_2.png) |
+| **Müşteri Profili & Skorlama** | **Bölgesel Dağılım** |
+| ![Score Analysis](images/dashboard_3.png) | *(Diğer detaylar)* |
+
+> **Not:** Dashboard görselleri, proje sonuçlarının görselleştirilmesi amacıyla eklenmiştir.
+
+---
+
 ## 📂 Repository Structure
 
 * `notebooks/`: Jupyter Notebook (.ipynb) kod dosyaları.
