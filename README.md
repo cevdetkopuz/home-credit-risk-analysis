@@ -121,3 +121,12 @@ Model çıktılarını, müşteri segmentlerini ve risk faktörlerini analiz etm
 * `submission.csv`: Final tahmin dosyası.
 * `requirements.txt`: Gerekli kütüphaneler.
 
+---
+
+## 🤝 Authors
+
+@zistemihan
+@emirhankumus
+@gcemozdogan
+@cevdetkopuz
+
