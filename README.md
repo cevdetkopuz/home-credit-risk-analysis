@@ -125,9 +125,9 @@ Model çıktılarını, müşteri segmentlerini ve risk faktörlerini analiz etm
 
 ## 🤝 Authors
 
-@zistemihan
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/emirhankumus)
+- [Emirhan Kümüş](https://github.com/emirhankumus)
+- [Takım Arkadaşı](https://github.com/zistemihan)
+- [Emirhan Kümüş](https://github.com/gcemozdogan)
+- [Takım Arkadaşı](https://github.com/cevdetkopuz)
 
-@gcemozdogan
-@cevdetkopuz
 
