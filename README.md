@@ -126,8 +126,8 @@ Model çıktılarını, müşteri segmentlerini ve risk faktörlerini analiz etm
 ## 🤝 Authors
 
 - [Emirhan Kümüş](https://github.com/emirhankumus)
-- [Takım Arkadaşı](https://github.com/zistemihan)
-- [Emirhan Kümüş](https://github.com/gcemozdogan)
-- [Takım Arkadaşı](https://github.com/cevdetkopuz)
+- [Zehra İstemihan](https://github.com/zistemihan)
+- [Cem Özdoğan](https://github.com/gcemozdogan)
+- [Cevdet Kopuz](https://github.com/cevdetkopuz)
 
 
