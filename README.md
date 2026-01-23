@@ -18,6 +18,7 @@ Bu proje, görev dağılımı ve süreç takibi için **Trello** kullanılarak, 
 
 ---
 
+
 ## 🛠️ Tools & Technologies
 
 Projede kullanılan teknoloji yığını (Tech Stack):
